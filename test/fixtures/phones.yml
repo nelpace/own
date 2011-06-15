@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  brand: MyString
+  type: MyString
+  y: 1
+  x: 1
+  z: 1
+
+two:
+  brand: MyString
+  type: MyString
+  y: 1
+  x: 1
+  z: 1

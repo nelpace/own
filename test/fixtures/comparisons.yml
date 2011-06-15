@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  phone_id: 1
+  vs: 1
+  y: MyString
+  x: MyString
+  z: MyString
+
+two:
+  phone_id: 1
+  vs: 1
+  y: MyString
+  x: MyString
+  z: MyString
